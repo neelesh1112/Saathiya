@@ -1,0 +1,50 @@
+.topnav{
+    background-color: rgb(140, 199, 199);
+    overflow: hidden;
+    top: 0%;
+    width: 100%;
+ }
+ 
+ .topnav a{
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    paint-order: fill;
+ }
+ 
+ #topnav a.active{
+    background-color: #2196F3;
+ color: white;
+ 
+ }
+ 
+ .topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+ }
+ 
+ #gallery{
+    float: left;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+ }
+ 
+ #searchbox{
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+ }

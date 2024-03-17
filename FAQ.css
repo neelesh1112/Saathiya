@@ -1,0 +1,167 @@
+.topnav{
+   width: 100%;
+   height: 40px;
+   top: 0px;
+   position: fixed;
+   border-bottom:solid 1px;
+   border-color: brown;
+}
+.topnav a{
+   float: left;
+   padding-top: px;
+   margin-top: 8px;
+   padding-left: 30px;
+   text-decoration: none;
+   color: black;
+}
+#a-navtag{
+   margin-left: 1000px;
+}
+.topnav input[type=Text]{
+   float: left;
+   margin-top: 8px;
+   padding: 6px;
+   border: none;
+   margin-right: 500px;
+}
+#searchbox{
+   float: left;
+   padding: 6px;
+   margin-top: 4px;
+   margin-left: 260px;
+   font-size: 17px;
+}
+
+
+
+#front-box{
+   height: 700px;
+   border:none;
+   margin-top: 2.7%;
+}
+
+.front-img{
+   position: relative;
+   
+   height: 750px;
+   background-color: rgb(255, 255, 255);
+   margin-top: 2%px;
+   width: 100%;
+}
+#fqa-img{
+   position: absolute;
+   width: 1000px;
+   height: 500px;
+   padding-left: 200px;
+   margin-top: 150px;
+}
+#border-img{
+   position: absolute;
+   
+   margin-left: 380px;
+   padding-top: 330px;
+   margin-top: 100px;
+}
+#fqa-log{
+   padding-top: 0px;
+   width: 250px;
+   height: 250px;
+   margin-left: 30%;
+}
+
+#text-1{
+   height: 100px;
+   margin-left: 100px;
+   margin-right: 100px;
+   margin-top: 30px;
+}
+
+
+.text-box{
+   margin-left: 150px;
+   margin-top: 10px;
+   margin-bottom: 100px;
+   margin-left: 160px;
+   margin-right: 160px;
+   height: 520px;
+   background-color:rgb(252, 248, 255);
+   border-radius: 30px;
+   box-shadow: 2px 3px 8px rgb(177, 175, 175);
+}
+.t-box{
+   display: block;
+   float: left;
+   padding-top: 10px;
+   overflow: hidden;
+   margin-left: 60px;
+   margin-right: 60px;
+}
+h3{
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    border: solid;
+    border-color: rgb(248, 180, 242);
+    border-radius: 20px;  
+    padding-top: 25px; 
+    margin-left: 10px;
+    background-color: white;
+    font-style: oblique;
+    color: rgb(20, 18, 18);
+    box-shadow: inset 2px 2px 6px black;
+    
+}
+a{
+   text-decoration: none;
+   
+}
+h3:hover{
+   transform: scale(1,1.1);
+   transition: .5s;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+   position: relative;
+   height: 300px;
+   background-repeat: no-repeat;
+   width: 1500px;
+   margin-top: 10px;
+   background-color: rgb(240, 240, 252); 
+}
+#footer-sathiya-logo{
+   position: absolute;
+   width: 50px;
+   height: 50px;
+   padding-left: 30%;
+   padding-top: 220px;
+   
+}
+
+#footer-up-direction-arraow{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin-left: 50%;
+    margin-top: 20px;
+    
+}
+#footer-text-1{
+    position: absolute;
+   width: 50px;
+   height: 50px;
+   padding-left: 34%;
+   padding-top: 233px;
+}
